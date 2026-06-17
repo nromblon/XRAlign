@@ -2,7 +2,7 @@
 
 A Unity 6 / MRTK3 calibration application for the **Pupil Labs Neon** eye tracker running on **Meta Quest 3**. It provides two hand‑driven (MRTK3 pinch) calibration flows and exports calibration data as JSON.
 
-> **This repository is a fork of [Pupil Labs' MRTK3 fork](https://github.com/pupil-labs)** (their Neon‑integrated fork of the Microsoft Mixed Reality Toolkit 3 dev template). All of the calibration‑specific work lives under `Assets/CalibrationApp/`; the rest of the tree is the upstream MRTK3 + Pupil Labs Neon SDK that this app depends on.
+> **This repository is based from a fork of [Pupil Labs' MRTK3 fork](https://github.com/pupil-labs)** (their Neon‑integrated fork of the Microsoft Mixed Reality Toolkit 3 dev template). All of the calibration‑specific work lives under `Assets/CalibrationApp/`; the rest of the tree is the upstream MRTK3 + Pupil Labs Neon SDK that this app depends on.
 
 ---
 
