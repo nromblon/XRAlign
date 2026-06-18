@@ -10,8 +10,8 @@ A Unity 6 / MRTK3 calibration application for the **Pupil Labs Neon** eye tracke
 
 - **Main scene** — a bilingual (EN/JP) instructions panel, then a navigation menu to launch either calibration flow.
 - **Recording Frustum Calibration** — choose a recording mode (Left Eye / Right Eye / Binocular), shows 13 fixed‑angle markers at 2 m, a head‑stability ring, and exports a session JSON.
-- **Sensor Offset Calibration** — *(stub — see [Known limitations](#known-limitations))*.
-
+- **Sensor Offset Calibration** — Utilizes the same Calibration scene by Pupil Labs (PL_Calibration). User is asked to perform a pinch gesture while staring directly at a sphere. This process is repeated multiple times until the sensor offsets from the Quest 3 display is calculated. 
+ 
 All interaction uses **MRTK3 pinch** via `PressableButton.OnClicked` (no XRI ray interactors). Every UI surface is a World Space Canvas with a `TrackedDeviceGraphicRaycaster`.
 
 ---
@@ -131,13 +131,6 @@ Found under `Assets/CalibrationApp/Scripts/Editor/` (menu: **Tools ▸ Calibrati
 - **Write or Update .gitignore** — writes/merges a Unity `.gitignore` at the project root (already run). Safe to re‑run.
 
 These are development conveniences; you may delete them before publishing if you prefer a leaner repo.
-
----
-
-## Known limitations
-
-- **`CalibSensorOffset` is a stub** — currently a clean duplicate of `Main`. The sensor‑offset flow and its `config.json` output are not yet implemented.
-- Eye‑node positions on Quest 3 are unreliable in Y/Z; the hardcoded IPD fallback is used by design.
 
 ---
 
