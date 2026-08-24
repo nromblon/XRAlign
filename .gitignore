@@ -15,6 +15,7 @@
 *.sln
 *.user
 .DS_Store
+.utmp/
 /[Aa]ssets/Screenshots/
 /[Aa]ssets/Screenshots.meta
 /[Aa]ssets/CalibrationApp/Fonts/*.ttc
