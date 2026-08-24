@@ -1,3 +1,0 @@
-E:\NeilRomblon\Projects\XRAlign\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
-E:\NeilRomblon\Projects\XRAlign\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\FramePacing\CMakeLists.txt
-E:\NeilRomblon\Projects\XRAlign\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
