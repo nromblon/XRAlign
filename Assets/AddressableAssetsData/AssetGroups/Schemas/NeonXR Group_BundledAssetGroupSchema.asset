@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e5d17a21594effb4e9591490b009e7aa, type: 3}
   m_Name: NeonXR Group_BundledAssetGroupSchema
   m_EditorClassIdentifier: 
-  m_Group: {fileID: 11400000, guid: 87dc2acdc7781d449b777073b9c953ee, type: 2}
+  m_Group: {fileID: 11400000, guid: 8bc139ce2543329469ff0cb2e4e08e36, type: 2}
   m_InternalBundleIdMode: 1
   m_Compression: 1
   m_IncludeAddressInCatalog: 1
@@ -35,9 +35,9 @@ MonoBehaviour:
   m_RedirectLimit: -1
   m_RetryCount: 0
   m_BuildPath:
-    m_Id: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
+    m_Id: 8e65f968a30b65a4a8a242e6ff2d0bc4
   m_LoadPath:
-    m_Id: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
+    m_Id: a744414215269bb4990334da547848cd
   m_BundleMode: 0
   m_AssetBundleProviderType:
     m_AssemblyName: Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
