@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: sumilab_romblon
-  productName: Gaze XR Calibration
+  productName: XRAlign
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -144,7 +144,7 @@ PlayerSettings:
   loadStoreDebugModeEnabled: 0
   visionOSBundleVersion: 1.0
   tvOSBundleVersion: 1.0
-  bundleVersion: 1.1.2.1
+  bundleVersion: 1.1.2.2
   preloadedAssets:
   - {fileID: 11400000, guid: e61946fb8f8ff5e418d6ebb56cca2034, type: 2}
   metroInputSource: 0
@@ -168,14 +168,14 @@ PlayerSettings:
   androidMaxAspectRatio: 2.1
   androidMinAspectRatio: 1
   applicationIdentifier:
-    Android: org.sumilab_romblon.gazexrcalibration
+    Android: com.sumilab_romblon.XRAlign
     Standalone: org.MixedRealityToolkit.MRTK3Sample
   buildNumber:
     Standalone: 0
     VisionOS: 0
     iPhone: 0
     tvOS: 0
-  overrideDefaultApplicationIdentifier: 1
+  overrideDefaultApplicationIdentifier: 0
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 29
   AndroidTargetSdkVersion: 0
