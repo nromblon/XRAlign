@@ -18,6 +18,7 @@
 /[Aa]ssets/Screenshots.meta
 /[Aa]ssets/CalibrationApp/Fonts/*.ttc
 /[Aa]ssets/CalibrationApp/Fonts/*.ttc.meta
+.utmp/
 
 # ===== Pupil Labs SDK (unlicensed - obtain from Pupil Labs, do not redistribute) =====
 /[Aa]ssets/PupilLabs/
