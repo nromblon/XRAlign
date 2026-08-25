@@ -16,17 +16,17 @@ MonoBehaviour:
   m_GUID: d8af1e490ba65ac4cbd40ce497b84ca2
   m_SerializeEntries:
   - m_GUID: 26faabbcc94fd10408ec6a88c7137f3a
-    m_Address: Packages/com.pupil-labs.neon-xr.core/Runtime/Addressables/calibration.bytes
+    m_Address: pl.calibration
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 80a206b3b2ba66d4b900bbab2680ee6a
-    m_Address: Packages/com.pupil-labs.neon-xr.core/Runtime/Addressables/configDefaults.json
+    m_Address: pl.config.defaults
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e98d692cd685a4a4393185fecd424d3e
-    m_Address: Packages/com.pupil-labs.neon-xr.core/Runtime/Addressables/config.json
+    m_Address: pl.config
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
